@@ -1,4 +1,27 @@
 <?php
+function countString($str)
+{
+    $count = 0;
+    while (isset($str[$count])) {
+        $count++;
+    }
+    return $count;
+}
+function cmpString($firstSortedStr, $secondSortedStr)
+{
+    $countFirstStr = countString($firstSortedStr);
+    $countSecondStr = countString($secondSortedStr);
+    if ($countFirstStr != $countSecondStr) {
+        $result = 0;
+    } else {
+        for ($i = 0; $i < $countFirstStr; $i++) {
+            if ($firstSortedStr[$i] != $secondSortedStr[$i]) {
+                $result = 0;
+            }
+        }
+    }
+    return $result;
+}
 function sortString($str)
 {
     // Step 1: count string length manually
@@ -38,10 +61,10 @@ function checkAnagram($fStr, $sStr)
     //Step 1: Sort string
     $firstSortedStr = sortString($fStr);
     $secondSortedStr =  sortString($sStr);
-
-    return (strcmp($firstSortedStr, $secondSortedStr) === 0);
+    $cmpString = cmpString($firstSortedStr, $secondSortedStr);
+    return $cmpString;
 }
-$firstString = "listen";
+$firstString = "listenr";
 $secondString = "silent";
 echo "======= Output =======</br>";
 echo "First String:" . $firstString . "</br>";
