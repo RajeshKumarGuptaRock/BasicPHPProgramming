@@ -25,6 +25,7 @@
             <li><a href="/ProgrammingPractice/customStack.php"><b>Custom Stack</b></a></li>
             <li><a href="/ProgrammingPractice/customQueue.php"><b>Custom Queue</b></a></li>
             <li><a href="/ProgrammingPractice/duplicateArray.php"><b>Check duplicate in array</b></a></li>
+            <li><a href="/ProgrammingPractice/missingNoInArray.php"><b>Find Missing no. in array</b></a></li>
         </ul>
     </div>
 </body>
