@@ -20,9 +20,14 @@ function ShowDuplicateChar($str)
     }
     // Step 3:Find duplicate characters
     $duplicate = "";
+    $first = true;
     foreach ($freq as $key => $value) {
         if ($value > 1) {
+            if (!$first) {
+                $duplicate .= ",";
+            }
             $duplicate .= $key;
+            $first = false;
         }
     }
     return $duplicate;
