@@ -14,6 +14,9 @@
             <li><a href="/ProgrammingPractice/findDuplicateChar.php"><b>Find duplicate Char in given string</b></a></li>
             <li><a href="/ProgrammingPractice/removeDuplicateChar.php"><b>Remove duplicate Char in given string</b></a></li>
             <li><a href="/ProgrammingPractice/anagram.php"><b>Check given two string is anagram</b></a></li>
+            <li><a href="/ProgrammingPractice/reverseWord.php"><b>Reverse whole Word</b></a></li>
+            <li><a href="/ProgrammingPractice/capitalizeFirstLetterOfSentence.php"><b>capitalized First Letter of Sentence</b></a></li>
+            <li><a href="/ProgrammingPractice/longestWordInSentence.php"><b>Find longest Word in Sentence</b></a></li>
         </ul>
     </div>
 </body>
