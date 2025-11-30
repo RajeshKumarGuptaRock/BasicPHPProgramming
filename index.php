@@ -12,6 +12,8 @@
             <li><a href="/ProgrammingPractice/firstNonRepeating.php"><b>Find first non-repeating char</b></a></li>
             <li><a href="/ProgrammingPractice/coutFrequencyOfChar.php"><b>Find each Char count in given string</b></a></li>
             <li><a href="/ProgrammingPractice/findDuplicateChar.php"><b>Find duplicate Char in given string</b></a></li>
+            <li><a href="/ProgrammingPractice/removeDuplicateChar.php"><b>Remove duplicate Char in given string</b></a></li>
+            <li><a href="/ProgrammingPractice/anagram.php"><b>Check given two string is anagram</b></a></li>
         </ul>
     </div>
 </body>
