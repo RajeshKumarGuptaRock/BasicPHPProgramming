@@ -11,7 +11,7 @@
             <li><a href="/ProgrammingPractice/countVowelsConsonent.php"><b>Count Vowels and Consonent</b></a></li>
             <li><a href="/ProgrammingPractice/firstNonRepeating.php"><b>Find first non-repeating char</b></a></li>
             <li><a href="/ProgrammingPractice/coutFrequencyOfChar.php"><b>Find each Char count in given string</b></a></li>
-
+            <li><a href="/ProgrammingPractice/findDuplicateChar.php"><b>Find duplicate Char in given string</b></a></li>
         </ul>
     </div>
 </body>
