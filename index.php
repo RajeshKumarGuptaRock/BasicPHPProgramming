@@ -19,6 +19,7 @@
             <li><a href="/ProgrammingPractice/longestWordInSentence.php"><b>Find longest Word in Sentence</b></a></li>
             <li><a href="/ProgrammingPractice/checkStringContainAnyDigit.php"><b>Check if string contains any digit</b></a></li>
             <li><a href="/ProgrammingPractice/convertStringToNumber.php"><b>Convert String to Number</b></a></li>
+            <li><a href="/ProgrammingPractice/removeSpaceFromString.php"><b>Remove space from String</b></a></li>
 
 
         </ul>
