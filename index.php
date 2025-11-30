@@ -17,6 +17,9 @@
             <li><a href="/ProgrammingPractice/reverseWord.php"><b>Reverse whole Word</b></a></li>
             <li><a href="/ProgrammingPractice/capitalizeFirstLetterOfSentence.php"><b>capitalized First Letter of Sentence</b></a></li>
             <li><a href="/ProgrammingPractice/longestWordInSentence.php"><b>Find longest Word in Sentence</b></a></li>
+            <li><a href="/ProgrammingPractice/checkStringContainAnyDigit.php"><b>Check if string contains any digit</b></a></li>
+
+
         </ul>
     </div>
 </body>
