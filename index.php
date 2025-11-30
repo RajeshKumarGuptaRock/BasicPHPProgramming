@@ -21,6 +21,7 @@
             <li><a href="/ProgrammingPractice/convertStringToNumber.php"><b>Convert String to Number</b></a></li>
             <li><a href="/ProgrammingPractice/removeSpaceFromString.php"><b>Remove space from String</b></a></li>
             <li><a href="/ProgrammingPractice/FindMostOccurringChar.php"><b>Find the most occurring character</b></a></li>
+            <li><a href="/ProgrammingPractice/bubbleSort.php"><b>Bubble Sort</b></a></li>
         </ul>
     </div>
 </body>
