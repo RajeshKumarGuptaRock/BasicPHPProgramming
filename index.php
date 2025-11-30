@@ -9,7 +9,7 @@
             <li><a href="/ProgrammingPractice/reverseString.php"><b>Reverse String</b></a></li>
             <li><a href="/ProgrammingPractice/palindrom.php"><b>Check String is palindrom</b></a></li>
             <li><a href="/ProgrammingPractice/countVowelsConsonent.php"><b>Count Vowels and Consonent</b></a></li>
-            <li><a href="/ProgrammingPractice/firstNonRepeating,php"><b>Find first non-repeating char</b></a></li>
+            <li><a href="/ProgrammingPractice/firstNonRepeating.php"><b>Find first non-repeating char</b></a></li>
         </ul>
     </div>
 </body>
