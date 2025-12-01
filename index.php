@@ -27,6 +27,8 @@
             <li><a href="/ProgrammingPractice/duplicateArray.php"><b>Check duplicate in array</b></a></li>
             <li><a href="/ProgrammingPractice/missingNoInArray.php"><b>Find Missing no. in array</b></a></li>
             <li><a href="/ProgrammingPractice/sortStringOfNumber.php"><b>Sort String of number</b></a></li>
+            <li><a href="/ProgrammingPractice/findPairFromArrayThatSumOfGivenNo.php"><b>find Pair From Array That Sum Of Given No.php</b></a></li>
+
         </ul>
     </div>
 </body>
