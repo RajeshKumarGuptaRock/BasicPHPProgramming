@@ -11,7 +11,6 @@ function countString($str)
 function reverseString($str)
 {
     $reverseStr = "";
-    //Step 1: Sort string
     $count = countString($str);
     for ($i = $count - 1; $i >= 0; $i--) {
         $reverseStr .= $str[$i];
