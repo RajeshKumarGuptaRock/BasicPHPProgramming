@@ -30,7 +30,8 @@
             <li><a href="/ProgrammingPractice/findPairFromArrayThatSumOfGivenNo.php"><b>find Pair From Array That Sum Of Given No</b></a></li>
             <li><a href="/ProgrammingPractice/checkArrayeqality.php"><b>check Array eqality</b></a></li>
             <li><a href="/ProgrammingPractice/removeSpecificIndexOrelementInArray.php"><b>Remove Specific Index or element in Array</b></a></li>
-
+            <li><a href="/ProgrammingPractice/removeSpecificIndexOrelementInArray.php"><b>Remove Specific Index or Array</b></a></li>
+            <li><a href="/ProgrammingPractice/flattenArray.php"><b>Flatten Array</b></a></li>
 
 
         </ul>
