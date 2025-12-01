@@ -32,7 +32,8 @@
             <li><a href="/ProgrammingPractice/removeSpecificIndexOrelementInArray.php"><b>Remove Specific Index or element in Array</b></a></li>
             <li><a href="/ProgrammingPractice/removeSpecificIndexOrelementInArray.php"><b>Remove Specific Index or Array</b></a></li>
             <li><a href="/ProgrammingPractice/flattenArray.php"><b>Flatten Array</b></a></li>
-             <li><a href="/ProgrammingPractice/intersectArray.php"><b>Intersect of two Array</b></a></li>
+            <li><a href="/ProgrammingPractice/intersectArray.php"><b>Intersect of two Array</b></a></li>
+            <li><a href="/ProgrammingPractice/rotateArray.php"><b>Rotate Array element by k no.</b></a></li>
 
 
         </ul>
